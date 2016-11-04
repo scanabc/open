@@ -39,4 +39,4 @@ at Teknologiatie 18 [(video)](https://youtu.be/r-e25qPsojc)
   and [building a game fanbase](http://supergod.fi/blog/2016/09/20/consider-talking/).
 * [Sakari Sanaksenaho](https://twitter.com/derzakke) from
   [Sparta Consulting](https://spartaconsulting.fi/) talked about how
-  Sparta became the rebel consultant shop with moneyback guarantee.
+  Sparta became the rebel consultant shop with money-back guarantee.
