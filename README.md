@@ -1,10 +1,14 @@
 # Open
 
-Get to know us by reading what we share:
+Follow us:
 
-  [Security Startups](follow-security-startups.md).
+* [Scandinavian ABC web pages](http://www.scanabc.com/)
+* [Scandinavian ABC in Twitter](https://twitter.com/scanabc)
+* [Scandinavian ABC in Reddit](https://reddit.com/r/scanabc/)
+* [Hownetworks in Twitter](https://twitter.com/hownetworksio)
+* [Hownetworks blog](https://medium.com/hownetworks)
+* [Hownetworks in GitHub](https://github.com/hownetworks)
 * [Jani's Reading List](https://plus.google.com/+JaniKenttälä)
-* We share reading links in our [Reddit scanabc-subthread](https://reddit.com/r/scanabc/)
 
 ## 2016-11-03
 
