@@ -1,10 +1,10 @@
 # Open
 
-Get to know us:
+Get to know us by reading what we share:
 
-* Links for following Finnish
   [Security Startups](follow-security-startups.md).
 * [Jani's Reading List](https://plus.google.com/+JaniKenttälä)
+* We share reading links in our [Reddit scanabc-subthread](https://reddit.com/r/scanabc/)
 
 ## 2016-11-03
 
