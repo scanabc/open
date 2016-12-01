@@ -1,5 +1,7 @@
 # Open
 
+Ääkköset has Open doors every Tuesday 12:00 onwards in [Kielo](http://kielo.com/) premises. Sometimes we jointly arrange events also together with Kielo. 
+
 Follow us:
 
 * [Scandinavian ABC web pages](http://www.scanabc.com/)
