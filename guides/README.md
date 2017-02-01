@@ -22,7 +22,7 @@ You can use Google's mail server:
 
 ![Fourth Step](004-smtp.jpg)
 
-* About Username: this will be *your **Google** username*
+* About Username: this will be *your Google username*
 * About Password: *your password*, or
   * with two-factor authentication, generate new application password at
     <https://security.google.com/settings/security/apppasswords>
