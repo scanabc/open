@@ -1,6 +1,8 @@
 # Open
 
-Ääkköset has Open doors every Tuesday 12:00 onwards in [Kielo](http://kielo.com/) premises. Sometimes we jointly arrange events also together with Kielo. 
+Ääkköset has Open doors every Tuesday 12:00 onwards in
+[Kielo](http://kielo.com/) premises. Sometimes we jointly arrange events also
+together with Kielo.
 
 Follow us:
 
@@ -11,6 +13,26 @@ Follow us:
 * [Hownetworks blog](https://medium.com/hownetworks)
 * [Hownetworks in GitHub](https://github.com/hownetworks)
 * [Jani's Reading List](https://plus.google.com/+JaniKenttälä)
+
+## 2017-01-31 - SensorFu Kickstart
+
+SensorFu workshop. Kickstarting the R&D. @Turmi0 from SensorFU recapped
+alternative tech-paths. @oherrala provided details and opinions. We also
+picked ruthlessly @ecode's brains as he made the mistake of visiting us.
+@evilon and @fenris messed up the whiteboards and asked a lot of questions.
+
+* We reflected the implications of different technical choices to collaboration:
+  * in-house development,
+  * collaboration with scanabc companies, and
+  * collaboration with scanabc partners (F-Solutions, Remod, etc..)
+* Sales vectors. Positioning SensorFu tech:
+  * Simplified: "I get this problem, and easy to jump on
+    board"
+  * Positioning through long term vision - longer term work as the
+    customers have not planned purchases on such product.
+  * Familiar: piggybacking with marketing $$$ from
+    others, but get distracted with unaligned feature parity requests.
+* Killed a hefty amount of alternatives for now, zeroing in on MVP.
 
 ## 2016-11-03
 
