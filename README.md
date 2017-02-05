@@ -1,6 +1,6 @@
 # Ääkköset Open
 
-Ääkköset has Open doors every Tuesday 12:00 onwards in [Kielo](http://kielo.com/) premises. 
+Ääkköset has Open doors every Tuesday 12:00 onwards in the [Kielo](http://kielo.com/) premises. 
 Sometimes we join forces and arrange events together with Kielo.
 
 Follow us:
