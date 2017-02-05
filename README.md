@@ -1,24 +1,23 @@
-# Open
+# Ääkköset Open
 
-Ääkköset has Open doors every Tuesday 12:00 onwards in
-[Kielo](http://kielo.com/) premises. Sometimes we jointly arrange events also
-together with Kielo.
+Ääkköset has Open doors every Tuesday 12:00 onwards in [Kielo](http://kielo.com/) premises. 
+Sometimes we join forces and arrange events together with Kielo.
 
 Follow us:
 
-* [Scandinavian ABC web pages](http://www.scanabc.com/)
-* [Scandinavian ABC in Twitter](https://twitter.com/scanabc)
-* [Scandinavian ABC in Reddit](https://reddit.com/r/scanabc/)
-* [Hownetworks in Twitter](https://twitter.com/hownetworksio)
-* [Hownetworks blog](https://medium.com/hownetworks)
-* [Hownetworks in GitHub](https://github.com/hownetworks)
+* [Ääkköset web pages](http://www.scanabc.com/)
+* [Ääkköset in Twitter](https://twitter.com/scanabc)
+* [Ääkköset in Reddit](https://reddit.com/r/scanabc/)
+* [HowNetWorks in Twitter](https://twitter.com/hownetworksio)
+* [HowNetWorks blog](https://medium.com/hownetworks)
+* [HowNetWorks in GitHub](https://github.com/hownetworks)
 * [Jani's Reading List](https://plus.google.com/+JaniKenttälä)
 
 ## 2017-01-31 - SensorFu Kickstart
 
-SensorFu workshop. Kickstarting the R&D. @Turmi0 from SensorFU recapped
-alternative tech-paths. @oherrala provided details and opinions. We also
-picked ruthlessly @ecode's brains as he made the mistake of visiting us.
+SensorFu workshop. Kickstarting the R&D. @Turmi0 from SensorFu recapped
+alternative tech-paths. @oherrala provided details and opinions. We
+ruthlessly picked @ecode's brains as he made the mistake of visiting us.
 @evilon and @fenris messed up the whiteboards and asked a lot of questions.
 
 * We reflected the implications of different technical choices to collaboration:
@@ -26,24 +25,23 @@ picked ruthlessly @ecode's brains as he made the mistake of visiting us.
   * collaboration with scanabc companies, and
   * collaboration with scanabc partners (F-Solutions, Remod, etc..)
 * Sales vectors. Positioning SensorFu tech:
-  * Simplified: "I get this problem, and easy to jump on
-    board"
+  * Simplified: "I get this problem, and easy to jump on-board"
   * Positioning through long term vision - longer term work as the
     customers have not planned purchases on such product.
   * Familiar: piggybacking with marketing $$$ from
     others, but get distracted with unaligned feature parity requests.
-* Killed a hefty amount of alternatives for now, zeroing in on MVP.
+* Killed a hefty amount of alternatives for now, zeroing in on an MVP.
 
 ## 2016-11-03
 
 Kielo arranged a failure-themed Tuesday.
 
 * Ari Takanen from Kielo opened the session by listing the typical
-  startup-challenges
+  startup challenges
 * @evilon from Ääkköset Oy enjoyed a lot talking about his failures in life
   and work.
 * Mikko from [Sonolux](http://www.sonolux.fi/) spoke about how to
-  burn money to build a perfectly build loudspeakers and how he
+  burn money to build perfectly built loudspeakers and how he
   dealt with the failures before pivoting for something
   commercially viable.
 * Mika Ruostesuo from
@@ -51,7 +49,7 @@ Kielo arranged a failure-themed Tuesday.
   gave a simple message in his talk: if you haven't failed,
   you haven't tried hard enough.
 
-Later the day we gathered together with the HowNetWorks-crew
+Later the day we gathered together with the HowNetWorks crew
 to plan an awareness campaign about [URI:teller](https://uriteller.io).
 
 ## 2016-10-04
