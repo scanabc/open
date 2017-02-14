@@ -4,13 +4,13 @@
 
 ![First Step](001-settings.jpg)
 
-## Accouunts and Import
+## Accounts and Import
 
 Choose *Add another email address*.
 
 ![Second Step](002-accounts-and-import.jpg)
 
-## Add Your Name and Emaill-address
+## Add Your Name and Email-address
 
 This is the address you want to use in your email, e.g. tauno@scanabc.com.
 
