@@ -16,10 +16,10 @@ Count score: ```fgrep '(y)' product-checklist.md |wc -l```
 
 ## Has it been (re-)classified this year (n)
 
-* [] not released
-* [] under active development
-* [] maintenance, or
-* [] being EOL'ed
+* [ ] not released
+* [ ] under active development
+* [ ] maintenance, or
+* [ ] being EOL'ed
 
 ### Does it have a documented purpose (n)
 
@@ -29,8 +29,8 @@ Count score: ```fgrep '(y)' product-checklist.md |wc -l```
 
 ## Is it standalone (n)
 
-* [] Can we sell, and deploy, without any other "products"
-* [] Can customers use it as is without any of our other "products"
+* [ ] Can we sell, and deploy, without any other "products"
+* [ ] Can customers use it as is without any of our other "products"
 
 ## Does it have a product specification (n)
 
@@ -80,9 +80,9 @@ Count score: ```fgrep '(y)' product-checklist.md |wc -l```
 
 ### Does it have releases (n)
 
-    * Is the latest release installed / running / used somewhere?
-    * Can our co-workers access the latest release running somewhere?
-    * Are the changes in the release documented?
+* [ ] Is the latest release installed / running / used somewhere?
+* [ ] Can our co-workers access the latest release running somewhere?
+* [ ] Are the changes in the release documented?
 
 ### Does it have CI enabled (n)
 
