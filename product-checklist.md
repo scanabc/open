@@ -1,57 +1,117 @@
-# How product is my wow product?
+# How product is my wow product
 
-More you score, more product you have.
+More we score, more product we have.
 
-* Does it have a name?
-  * Does it have only one name?
-* Does it have an owner?
-  * Does it have [only one owner](http://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/)?
-* Has it been (re-)classified this year as either as 0) not released
-  a) under active development, b) maintenance or c) being EOL'ed?
-  * Does it have a documented purpose?
-  * Does it have a stated scope (what it is and what it is not)?
-* Is it standalone, ie. can it be sold, deployed and used as is without any of
-  our other "products"?
-* Does it have a product specification with external/system requirements and
-  with limitations where applicable?
-* Does it have documented description how it fits or relates to our other
-  products or product families?
-* Does it have documented features?
-  * Is every major feature documented in a sexy way with pictures and stuff? :)
-* Does it have a getting started tutorial?
-* Does it have sales collateral / marketing material?
-  * Does it have lead qualification guidelines?
-  * Is the marketing material publicly available?
-  * Does it have a sales demo available at least to sales?
-* Does it have a price?
-* Does it have a customer?
-  * Has customer paid for it in the past?
-  * Are customers currently paying for it as a subscription?
-  * Are customers currently paying for its support and maintenance?
-* Does it have a deployment story?
-* Does it have its own repository?
-  * Does it have a README.md?
-  * Does it have high level architecture diagram with outside interfaces?
-  * Does it have tests?
-  * Does it have releases?
+Count score: ```fgrep '(y)' product-checklist.md |wc -l```
+
+## Does it have a name (n)
+
+### Does it have one name (n)
+
+## Does it have an owner (n)
+
+### Does it have one owner (n)
+
+<http://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/>
+
+## Has it been (re-)classified this year (n)
+
+* [] not released
+* [] under active development
+* [] maintenance, or
+* [] being EOL'ed
+
+### Does it have a documented purpose (n)
+
+### Does it have a stated scope (n)
+
+*E.g. what it is and what it is not.*
+
+## Is it standalone (n)
+
+* [] Can we sell, and deploy, without any other "products"
+* [] Can customers use it as is without any of our other "products"
+
+## Does it have a product specification (n)
+
+*Including external/system requirements, and limitations where applicable.*
+
+## Does it have documented description (n)
+
+*How it fits or relates to our other products or product families?*
+
+## Does it have documented features (n)
+
+### Is every major feature documented (n)
+
+*In a sexy way with pictures and stuff.*
+
+## Does it have a getting started tutorial (n)
+
+## Does it have sales collateral / marketing material (n)
+
+### Does it have lead qualification guidelines (n)
+
+### Is the marketing material publicly available (n)
+
+### Does it have a sales demo available at least to sales (n)
+
+## Does it have a price (n)
+
+## Does it have a customer (n)
+
+### Has customer paid for it in the past (n)
+
+### Are customers currently paying for it as a subscription (n)
+
+### Are customers currently paying for its support and maintenance (n)
+
+## Does it have a deployment story (n)
+
+## Does it have its own repository (n)
+
+### Does it have a README.md (n)
+
+### Does it have high level architecture diagram (n)
+
+*Including outside interfaces.*
+
+### Does it have tests (n)
+
+### Does it have releases (n)
+
     * Is the latest release installed / running / used somewhere?
-    * Can your co-workers access the latest release running somewhere?
+    * Can our co-workers access the latest release running somewhere?
     * Are the changes in the release documented?
-  * Does it have CI enabled?
-  * Does it have CI running tests?
-  * Does it have CI building releases automatically when requested to do so?
-* Does it have automatised setup of development environment?
-  * Has it been documented in the README.md?
-  * Does it include mock data / inputs?
-* Does it have an enforced coding style (flake8, eslint, ...)?
-* Does it have performance benchmarks?
-  * Is the performance benchmark history kept and compared against
-    when releases are done?
-* Is there capture of design goals, choises, plans, drawings, etc.?
-* Has its design been security reviewed in a review meeting
-  and notes documented?
-* Has its implementation been security reviewed in a review
-  meeting and notes documented?
-  * Has it been done in last 3 months?
 
-* ...
+### Does it have CI enabled (n)
+
+### Does it have CI running tests (n)
+
+### Does it have CI building releases automatically when requested to do so (n)
+
+## Does it have automatised setup of development environment (n)
+
+### Is it in the README.md (n)
+
+### Does it include mock data / inputs (n)
+
+## Does it have an enforced coding style (flake8, eslint, ...) (n)
+
+## Does it have performance benchmarks (n)
+
+### Do we keep performance benchmark history (n)
+
+### Do we compare release results against benchmark history  (n)
+
+## Have we captured the design goals, choises, plans, drawings, etc (n)
+
+## Have we reviewed the security of its design? (n)
+
+*In a review meeting and notes documented.*
+
+## Have we reviewed the security of its implementation (n)
+
+*In a review meeting and notes documented.*
+
+### Have we done it in the last 3 months (n)
