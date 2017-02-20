@@ -78,11 +78,13 @@ Count score: ```fgrep '(y)' product-checklist.md |wc -l```
 
 ### Does it have tests (n)
 
-### Does it have releases (n)
+## Does it have releases (n)
 
-* [ ] Is the latest release installed / running / used somewhere?
-* [ ] Can our co-workers access the latest release running somewhere?
-* [ ] Are the changes in the release documented?
+## Is the latest release installed / running / used somewhere (n)
+
+### Can our co-workers access the latest release running somewhere (n)
+
+### Are the changes in the release documented (n)
 
 ### Does it have CI enabled (n)
 
@@ -92,7 +94,7 @@ Count score: ```fgrep '(y)' product-checklist.md |wc -l```
 
 ## Does it have automatised setup of development environment (n)
 
-### Is it in the README.md (n)
+### Is it documented in the README.md (n)
 
 ### Does it include mock data / inputs (n)
 
@@ -100,7 +102,7 @@ Count score: ```fgrep '(y)' product-checklist.md |wc -l```
 
 ## Does it have performance benchmarks (n)
 
-### Do we keep performance benchmark history (n)
+### Do we keep the performance benchmark history (n)
 
 ### Do we compare release results against benchmark history  (n)
 
