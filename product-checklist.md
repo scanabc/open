@@ -2,7 +2,11 @@
 
 More we score, more product we have.
 
-Count score: ```fgrep '(y)' product-checklist.md |wc -l```
+Count score: ```fgrep '(y)' product-checklist.md |grep -v "Count score"|wc -l```
+
+Yes:
+No:
+Open:
 
 ## Does it have a name (n)
 
@@ -14,7 +18,7 @@ Count score: ```fgrep '(y)' product-checklist.md |wc -l```
 
 <http://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/>
 
-## Has it been (re-)classified this year (n)
+## Has it been (re-)classified in the last 3 months (n)
 
 * [ ] not released
 * [ ] under active development
@@ -35,6 +39,8 @@ Count score: ```fgrep '(y)' product-checklist.md |wc -l```
 ## Does it have a product specification (n)
 
 *Including external/system requirements, and limitations where applicable.*
+
+[Definition](http://www.businessdictionary.com/definition/product-specification.html)
 
 ## Does it have documented description (n)
 
