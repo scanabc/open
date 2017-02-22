@@ -42,7 +42,7 @@ Open:
 
 [Definition](http://www.businessdictionary.com/definition/product-specification.html)
 
-## Does it have documented description (n)
+## Does it have a documented description (n)
 
 *How it fits or relates to our other products or product families?*
 
@@ -78,7 +78,7 @@ Open:
 
 ### Does it have a README.md (n)
 
-### Does it have high level architecture diagram (n)
+### Does it have a high level architecture diagram (n)
 
 *Including outside interfaces.*
 
