@@ -1,7 +1,8 @@
 # Ääkköset Open
 
-Ääkköset has Open doors every Tuesday 12:00 onwards in the [Kielo](http://kielo.com/) premises. 
-Sometimes we join forces and arrange events together with Kielo.
+Ääkköset has Open doors every Tuesday 12:00 onwards in the
+[Kielo](http://kielo.com/) premises. Sometimes we join forces and arrange
+events together with Kielo.
 
 Follow us:
 
@@ -12,6 +13,20 @@ Follow us:
 * [HowNetWorks blog](https://medium.com/hownetworks)
 * [HowNetWorks in GitHub](https://github.com/hownetworks)
 * [Jani's Reading List](https://plus.google.com/+JaniKenttälä)
+
+## 2017-02-21 - SensorFu External Collaboration
+
+SensorFu has structured their development plans and are now looking
+what will be build in-house, and for what they will use contractors.
+
+* Jesse and Jani from <http://remod.fi> visited us.
+* @turmio introduced the idea of SensorFu.
+* Jesse@Remod and Jani@Remod envisioned a gateway-drug for the SensorFu product,
+  as well  as talked about different product ideas.
+* Sami@Kielo dropped by to plan Vulmeet and mentioned new investor
+  connections. Jesse@Remod tipped off about the latest trend:
+  [Investor One Pager](https://www.vcforu.com/exampleonepagers)s. We were
+  immediately attracted to the idea.
 
 ## 2017-01-31 - SensorFu Kickstart
 
