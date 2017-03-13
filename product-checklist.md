@@ -50,7 +50,7 @@ Open:
 
 ### Is every major feature documented (n)
 
-*In a sexy way with pictures and stuff.*
+*In a sexy way with pictures*
 
 ## Does it have a getting started tutorial (n)
 
@@ -68,9 +68,9 @@ Open:
 
 ### Has customer paid for it in the past (n)
 
-### Are customers currently paying for it as a subscription (n)
+### Are customers paying for it as a subscription (n)
 
-### Are customers currently paying for its support and maintenance (n)
+### Are customers paying for its support and maintenance (n)
 
 ## Does it have a deployment story (n)
 
@@ -123,3 +123,15 @@ Open:
 *In a review meeting and notes documented.*
 
 ### Have we done it in the last 3 months (n)
+
+## Does it have a price
+
+## Value, to whom
+
+## Does it have references
+
+## Does it have success stories
+
+## Does it have testimonials
+
+## Does it have RoI-calculation
