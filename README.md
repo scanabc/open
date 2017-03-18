@@ -20,7 +20,8 @@ SensorFu has structured their development plans and are now looking
 what will be build in-house, and for what they will use contractors.
 
 * Jesse and Jani from <http://remod.fi> visited us.
-* @turmio introduced the idea of SensorFu.
+* [@turmi0](https://github.com/turmi0) introduced the idea of
+  [SensorFu](http://www.sensorfu.com/).
 * Jesse@Remod and Jani@Remod envisioned a gateway-drug for the SensorFu product,
   as well  as talked about different product ideas.
 * Sami@Kielo dropped by to plan Vulmeet and mentioned new investor
