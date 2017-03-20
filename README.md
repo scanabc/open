@@ -1,23 +1,36 @@
-# Ääkköset Open
+# Scandinavian ABC Open
 
-Ääkköset has Open doors every Tuesday 12:00 onwards in the
-[Kielo](http://kielo.com/) premises. Sometimes we join forces and arrange
-events together with Kielo.
+Ääkköset, a Scandinavian ABC company, has Open doors every Tuesday 12:00
+onwards in the [Kielo](http://kielo.com/) premises. You are
+welcome to drop by! Sometimes we join forces
+and arrange events together with Kielo.
 
-Follow us:
+If you can't stop by, you can follow Scandinavian ABC companies online:
 
-* [Ääkköset web pages](http://www.scanabc.com/)
-* [Ääkköset in Twitter](https://twitter.com/scanabc)
-* [Ääkköset in Reddit](https://reddit.com/r/scanabc/)
-* [HowNetWorks in Twitter](https://twitter.com/hownetworksio)
-* [HowNetWorks blog](https://medium.com/hownetworks)
-* [HowNetWorks in GitHub](https://github.com/hownetworks)
-* [Jani's Reading List](https://plus.google.com/+JaniKenttälä)
+* Scandinavian ABC collective:
+  * This page - a journal from Scandinavian ABC Open sessions.
+  * [Twitter](https://twitter.com/scanabc) - aggregates tweets from
+    individuals working in Scandinavian ABC ecosystem. Also, announces things
+    sometimes.
+  * [Reddit](https://reddit.com/r/scanabc/) - our reading list for
+    orienting ourselves.
+  * [Medium](https://medium.com/@scanabc/has-recommended)
+    blogs by the Scandinavian ABC companies and individuals
+
+* Companies themselves:
+  * [Ääkköset Oy web pages](http://www.scanabc.com/) - Ääkköset Oy accelerates
+    Scandinavian ABC companies.
+  * [Cyblem Oy web pages](http://www.cyblem.com/) -
+  * [HowNetWorks in Twitter](https://twitter.com/hownetworksio)
+  * [HowNetWorks blog](https://medium.com/hownetworks)
+  * [HowNetWorks in GitHub](https://github.com/hownetworks)
+  * [SensorFu web pages](http://www.sensorfu.com/)
+  * [SensorFu in Twitter](https://twitter.com/sensorfu/)
 
 ## 2017-02-21 - SensorFu External Collaboration
 
-SensorFu has structured their development plans and are now looking
-what will be build in-house, and for what they will use contractors.
+SensorFu has structured their development plans and are now looking at
+what will be build in-house, and for can be outsourced.
 
 * Jesse and Jani from <http://remod.fi> visited us.
 * [@turmi0](https://github.com/turmi0) introduced the idea of
@@ -39,7 +52,7 @@ ruthlessly picked @ecode's brains as he made the mistake of visiting us.
 * We reflected the implications of different technical choices to collaboration:
   * in-house development,
   * collaboration with scanabc companies, and
-  * collaboration with scanabc partners (F-Solutions, Remod, etc..)
+  * collaboration with scanabc partners (F-Solutions, Remod, etc...)
 * Sales vectors. Positioning SensorFu tech:
   * Simplified: "I get this problem, and easy to jump on-board"
   * Positioning through long term vision - longer term work as the
