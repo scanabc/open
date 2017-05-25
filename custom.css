@@ -1,0 +1,18 @@
+p.highlight-red {
+  color: #aa0000;
+  background-color: rgba(33, 33, 33, 0.3)
+}
+
+h2.transparent-white, p.transparent-white {
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.2)
+}
+
+h2.transparent-black, p.transparent-black {
+  color: #111111;
+  background-color: rgba(255, 255, 255, 0.3)
+}
+
+.reveal .overlay.overlay-help .viewport .viewport-inner table {
+  color: #fff;
+}
