@@ -29,7 +29,6 @@ If you can't stop by, you can follow Scandinavian ABC companies online:
 
 ## 2017-05-22 - Koodikärpät visit
 
-
 ## 2017-04-25
 
 * @ronchaine had returned from his around-the-world trip and was intrigued by the prospect
@@ -114,4 +113,3 @@ at Teknologiatie 18 [(video)](https://youtu.be/r-e25qPsojc)
 * [Sakari Sanaksenaho](https://twitter.com/derzakke) from
   [Sparta Consulting](https://spartaconsulting.fi/) talked about how
   Sparta became the rebel consultant shop with money-back guarantee.
-
