@@ -33,9 +33,10 @@ Open:
 
 ## Is it standalone (n)
 
-* [ ] Can we sell, and deploy, without any other "products"
-* [ ] Can customers use it as is without any of our other "products"
-
+* [ ] Can we sell, and deploy, without selling any other "products"
+* [ ] Can product's defined customer use it as is without acquiring any of
+      our (or someone else's) other "products"
+      
 ## Does it have a product specification (n)
 
 *Including external/system requirements, and limitations where applicable.*
