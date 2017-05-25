@@ -27,6 +27,25 @@ If you can't stop by, you can follow Scandinavian ABC companies online:
   * [SensorFu web pages](http://www.sensorfu.com/)
   * [SensorFu in Twitter](https://twitter.com/sensorfu/)
 
+## 2017-05-22 - Koodikärpät visit
+
+
+## 2017-04-25
+
+* @ronchaine had returned from his around-the-world trip and was intrigued by the prospect
+  of running a startup testdrive
+
+## 2017-04-11
+
+* [@whiteeyedoll](https://github.com/WhiteEyeDoll) stopped by to chat about
+  various topics, from modernizing IT-systems to perks of modern Linux desktops.
+  [SampleCloud](https://github.com/WhiteEyeDoll/SampleCloud),
+  [Google App Engine](https://cloud.google.com/appengine/).
+
+## 2017-04-04
+
+* [@tvaisanen](https://github.com/tvaisanen) visited and dreamed about a collaborative dependency mapping tool for critical organistions.
+
 ## 2017-02-21 - SensorFu External Collaboration
 
 SensorFu has structured their development plans and are now looking at
@@ -95,3 +114,4 @@ at Teknologiatie 18 [(video)](https://youtu.be/r-e25qPsojc)
 * [Sakari Sanaksenaho](https://twitter.com/derzakke) from
   [Sparta Consulting](https://spartaconsulting.fi/) talked about how
   Sparta became the rebel consultant shop with money-back guarantee.
+
