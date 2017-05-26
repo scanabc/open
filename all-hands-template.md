@@ -1,4 +1,4 @@
-# FpnaNOP All-Hands Template
+# ScanABC All-Hands Template
 
 ## Celebrate
 
