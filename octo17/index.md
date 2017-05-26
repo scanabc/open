@@ -15,6 +15,7 @@
 <!-- next -->
 
 <!-- .slide: data-background-image="ycomb.jpg" class="right-whitebox" -->
+
 ## Prior Art (1/2)
 
 <https:/www.ycombinator.com/> <!-- .element: class="small" -->
@@ -22,6 +23,7 @@
 <!-- next -->
 
 <!-- .slide: data-background-image="alphabet.jpg" class="blackbox" -->
+
 ## Prior Art (2/2)
 
 <https://abc.xyz/>
@@ -41,7 +43,7 @@ true entrepreneurs.
 
 <!-- next -->
 
-Speed up the productization to make 
+Speed up the productization to make
 
 a global impact.
 <!-- .element: class="highlight-red" -->
@@ -49,6 +51,7 @@ a global impact.
 <!-- next -->
 
 <!-- .slide: data-background-image="why.jpg" class="right-whitebox" -->
+
 ## Why Are we Doing This
 
 As told by the
@@ -58,8 +61,6 @@ FpnaNOP <!-- .element: class="highlight-red" -->
 people.
 
 <!-- next -->
-
-
 
 <!-- .slide: data-background-image="tempo.jpg" class="whitebox" -->
 
@@ -78,6 +79,7 @@ people.
 <!-- .element: class="small" -->
 
 <!-- next -->
+
 ### Product Now
 
 ![now](now.jpg)
@@ -86,6 +88,7 @@ Don't steal the developers thunder.
 <!-- next -->
 
 <!-- .slide: data-background-image="allhands.jpg" class="right-whitebox" -->
+
 ### All Hands
 
 * Celebrate
@@ -94,6 +97,7 @@ Don't steal the developers thunder.
   * Strategy
 * Initiatives
 * Q & A
+
 <!-- next -->
 
 ### Pro Marketing Expertise
@@ -109,7 +113,7 @@ Don't steal the developers thunder.
 ### Startup Test Drive
 
 <!-- next -->
-<!-- next -->
+
 ## What The Startups Have Been Doing
 
 <!-- next -->
