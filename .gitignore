@@ -1,6 +1,5 @@
 node_modules/
-head.min.js
 package.json
 
-# check
 Gruntfile.js
+.DS_Store
