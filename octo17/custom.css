@@ -1,25 +1,37 @@
 
 .reveal {
-  background-image: url(../vignette.jpg);
+  background-image: url(vignette.jpg);
   background-size: 100%;
 }
 
 /* Text boxes */
 
 section.whitebox.present {
-  background-color: rgba(255, 255, 245, 0.8);
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+section.blackbox.present {
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 section.right-whitebox.present {
   width: 50%;
+  padding: 20px;
   position: absolute;
   right: 0px;
-  background-color: rgba(255, 255, 245, 0.8);
+  background-color: rgba(255, 255, 255, 0.8);
 }
 
+section.right-blackbox.present {
+  width: 50%;
+  padding: 20px;
+  position: absolute;
+  right: 0px;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.2);
+}
 p.highlight-red {
   color: #aa0000;
-  background-color: rgba(33, 33, 33, 0.3)
 }
 
 h2.transparent-white, p.transparent-white {
@@ -34,4 +46,11 @@ h2.transparent-black, p.transparent-black {
 
 .reveal .overlay.overlay-help .viewport .viewport-inner table {
   color: #fff;
+}
+
+p.smallest, a.smallest {
+  font-size: 30%;
+}
+p.small, a.small {
+  font-size: 50%;
 }
