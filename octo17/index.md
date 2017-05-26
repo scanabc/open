@@ -1,3 +1,5 @@
+<!-- .slide: data-background-image="finland.jpg" class="whitebox" -->
+
 # Mass Producing Security Startups
 
 <!-- next -->
@@ -34,7 +36,9 @@ Venn diagram of problems
 
 <!-- next -->
 
-### Seed Funding & Grants
+<!-- .slide: data-background-image="tempo.jpg" class="whitebox" -->
+
+### Seed Funding and Help With Grants
 
 [Seed -> R&D] -> Series A,B,C
 
@@ -56,6 +60,9 @@ Venn diagram of problems
 
 <!-- next -->
 
+### Product Now
+
+<!-- next -->
 ## What The Startups Have Been Doing
 
 <!-- next -->
