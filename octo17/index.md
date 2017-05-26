@@ -27,8 +27,6 @@
 <https://abc.xyz/>
 <!-- next -->
 
-## 
-
 Invest in
 
 inspiring innovations
