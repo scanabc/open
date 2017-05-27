@@ -2,6 +2,9 @@
 
 # Mass Producing Security Startups
 
+![fork](fork.png)
+<!-- .element: class="fork" -->
+
 <!-- next -->
 
 ## My Background
@@ -64,8 +67,9 @@ people.
 
 <!-- .slide: data-background-image="tempo.jpg" class="whitebox" -->
 
-### Ideological Risk Investment
+### Ideological Investments
 
+* Ideological means: we are just a tad biased towards *does this fix some chronic security issue*.
 * Seed funding
 * Private part for the public funding
 
@@ -75,7 +79,7 @@ people.
 
 ![wow](wowscore.jpg)
 
-[>The checklist is in GitHub](http://www.scanabc.com/)
+[>The checklist is in GitHub](https://github.com/scanabc/open/blob/master/product-checklist.md)
 <!-- .element: class="small" -->
 
 <!-- next -->
@@ -85,6 +89,19 @@ people.
 ![now](now.jpg)
 
 Don't steal the developers thunder.
+
+<!-- next -->
+
+<!-- .slide: data-background-image="reddit.jpg" class="right-whitebox" -->
+
+### Reddit
+
+We all share links.
+
+Why not do it publicly?
+
+We might find some like-minded people.
+
 <!-- next -->
 
 <!-- .slide: data-background-image="allhands.jpg" class="right-whitebox" -->
@@ -119,6 +136,8 @@ Don't steal the developers thunder.
 <!-- next -->
 
 ## UbjArgJbexf
+
+![URI:Teller](uriteller.gif)
 
 <!-- next -->
 

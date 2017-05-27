@@ -1,3 +1,13 @@
+section.whitebox.present img.fork {
+  margin-top: 0px;
+  border: 0px;
+  padding: 0px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  box-shadow: none;
+  background: none;
+}
 
 .reveal {
   background-image: url(vignette.jpg);
