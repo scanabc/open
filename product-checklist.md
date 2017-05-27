@@ -129,7 +129,7 @@ Open:
 
 ## Value, to whom
 
-## Does it have references
+## Does it have reference customers
 
 ## Does it have success stories
 
