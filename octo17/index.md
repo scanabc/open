@@ -11,15 +11,40 @@
 
 <!-- next -->
 
-<!-- .slide: data-background-image="ideas.png" class="right-whitebox" -->
-
-## The Problem
+<!-- .slide: data-background-image="fuzz.jpg" -->
 
 <!-- next -->
 
-<!-- .slide: data-background-image="ycomb.jpg" class="right-whitebox" -->
+<!-- .slide: data-background-image="abuse.jpg" -->
+
+<!-- next -->
+
+## The Problem
+
+19 years. 12 years.
+
+<!-- next -->
+
+<!-- .slide: data-background-image="lifetooshort.jpg" class="rightest-whitebox" -->
+
+Life is too short.<!-- .element: class="highlight-red" -->
+
+<!-- next -->
+
+<!-- .slide: data-background-image="madscience.jpg" class="rightest-whitebox" -->
+
+Harder
+
+Better
+
+Faster
+
+Stronger
+<!-- next -->
 
 ## Prior Art (1/2)
+
+<!-- .slide: data-background-image="ycomb.jpg" class="right-whitebox" -->
 
 <https:/www.ycombinator.com/> <!-- .element: class="small" -->
 
@@ -30,6 +55,13 @@
 ## Prior Art (2/2)
 
 <https://abc.xyz/>
+
+<!-- next -->
+
+## The Finnish Version
+
+<http://www.åäö.xyz>
+
 <!-- next -->
 
 Invest in
