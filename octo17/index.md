@@ -7,7 +7,7 @@
 
 <!-- next -->
 
-## My Background
+## Why Try
 
 <!-- next -->
 
@@ -19,9 +19,13 @@
 
 <!-- next -->
 
+<!-- .slide: data-background-image="world.jpg" class="rightest-whitebox" -->
+
 ## The Problem
 
-19 years. 12 years.
+19 years.
+
+12 years.
 
 <!-- next -->
 
@@ -42,7 +46,7 @@ Faster
 Stronger
 <!-- next -->
 
-## Prior Art (1/2)
+## Inspired By
 
 <!-- .slide: data-background-image="ycomb.jpg" class="right-whitebox" -->
 
@@ -52,7 +56,7 @@ Stronger
 
 <!-- .slide: data-background-image="alphabet.jpg" class="blackbox" -->
 
-## Prior Art (2/2)
+## Inspired By
 
 <https://abc.xyz/>
 
@@ -62,6 +66,7 @@ Stronger
 
 <http://www.åäö.xyz>
 
+Those. But with Information Security Focus.
 <!-- next -->
 
 Invest in
@@ -99,11 +104,11 @@ people.
 
 <!-- .slide: data-background-image="tempo.jpg" class="whitebox" -->
 
-### Ideological Investments
+### Investments
 
-* Ideological means: we are just a tad biased towards *does this fix some chronic security issue*.
-* Seed funding
-* Private part for the public funding
+A tad biased: *does this fix some chronic security issue*.
+
+Leverage public grants with private funding.
 
 <!-- next -->
 
@@ -120,7 +125,8 @@ people.
 
 ![now](now.jpg)
 
-Don't steal the developers thunder.
+Don't steal the developers thunder.<!-- .element: class="small" -->
+[>Product-Now is in GitHub too](https://github.com/scanabc/open/blob/master/product-now.md)
 
 <!-- next -->
 
@@ -133,6 +139,9 @@ We all share links.
 Why not do it publicly?
 
 We might find some like-minded people.
+
+[>Subreddit for security startups.](http://reddit.com/r/scanabc/)
+<!-- .element: class="small" -->
 
 <!-- next -->
 
@@ -149,11 +158,15 @@ We might find some like-minded people.
 
 <!-- next -->
 
-### Pro Marketing Expertise
+<!-- .slide: data-background-image="sensorfu.gif" class="whitebox" -->
+
+### Marketing Expertise
 
 <!-- next -->
 
-### Social Marketing Expertise
+<!-- .slide: data-background-image="social.jpg" class="rightest-whitebox" -->
+
+### Content Marketing Expertise
 
 <!-- next -->
 
@@ -161,9 +174,10 @@ We might find some like-minded people.
 
 ### Startup Test Drive
 
+Productizing a method to productize a product.
 <!-- next -->
 
-## What The Startups Have Been Doing
+## What They Have Been Up To
 
 <!-- next -->
 
@@ -172,6 +186,8 @@ We might find some like-minded people.
 ![URI:Teller](uriteller.gif)
 
 <!-- next -->
+
+<!-- .slide: data-background-image="finnishmodel.jpg" class="whitebox" -->
 
 ## Ployrz
 
