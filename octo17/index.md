@@ -7,25 +7,20 @@
 
 <!-- next -->
 
-## Why Try
+<!-- .slide: data-background-image="why.jpg" class="rightest-whitebox" -->
+
+Why Would Anyone Mass Produce Security Startups?
 
 <!-- next -->
 
-<!-- .slide: data-background-image="fuzz.jpg" -->
+<!-- .slide: data-background-image="world.jpg" class="right-whitebox" -->
 
-<!-- next -->
+## My Reason
 
-<!-- .slide: data-background-image="abuse.jpg" -->
-
-<!-- next -->
-
-<!-- .slide: data-background-image="world.jpg" class="rightest-whitebox" -->
-
-## The Problem
-
-19 years.
-
-12 years.
+* Idea 1:
+  * 19 years to become popular
+* Idea 2:
+  * 12 years to become popular
 
 <!-- next -->
 
@@ -62,92 +57,54 @@ Stronger
 
 <!-- next -->
 
-## The Finnish Version
+## Good Time For Experimenting
 
-<http://www.åäö.xyz>
-
-Those. But with Information Security Focus.
-<!-- next -->
-
-Invest in
-
-inspiring innovations
-<!-- .element: class="highlight-red" -->
-
-which are
-
-driven by
-<!-- .element: class="highlight-red" -->
-
-true entrepreneurs.
+Like in a college...
 
 <!-- next -->
 
-Speed up the productization to make
 
-a global impact.
-<!-- .element: class="highlight-red" -->
+### OUSPG Open
 
-<!-- next -->
+From zero to impact in 90 days.
 
-<!-- .slide: data-background-image="why.jpg" class="right-whitebox" -->
+[>Read more about it](http://slides.com/evilon/ouspg-open-2016) 
+<!-- .element: class="small" -->
 
-## Why Are we Doing This
-
-As told by the
-
-FpnaNOP <!-- .element: class="highlight-red" -->
-
-people.
-
-<!-- next -->
-
-<!-- .slide: data-background-image="tempo.jpg" class="whitebox" -->
-
-### Investments
-
-A tad biased: *does this fix some chronic security issue*.
-
-Leverage public grants with private funding.
-
-<!-- next -->
-
-### Product Sparring
-
-![wow](wowscore.jpg)
-
-[>The checklist is in GitHub](https://github.com/scanabc/open/blob/master/product-checklist.md)
+[>View more](https://www.youtube.com/watch?v=nY450MCMjOU&list=PL1fscFAejNoDGRgJVMrv_jzWny1T1SaDP)
 <!-- .element: class="small" -->
 
 <!-- next -->
 
-### Product Now
+### Learned
 
-![now](now.jpg)
+3 months is enough to see "will this work out"
 
-Don't steal the developers thunder.<!-- .element: class="small" -->
-[>Product-Now is in GitHub too](https://github.com/scanabc/open/blob/master/product-now.md)
+Winner<!-- .element: class="highlight-red" -->
 
 <!-- next -->
 
-<!-- .slide: data-background-image="reddit.jpg" class="right-whitebox" -->
+<!-- .slide: data-background-image="testdrive.jpg" class="whitebox" -->
 
-### Reddit
+### Startup Test Drive
 
-We all share links.
+Productizing a method to productize a product.
 
-Why not do it publicly?
+<!-- next -->
 
-We might find some like-minded people.
+### Learned
 
-[>Subreddit for security startups.](http://reddit.com/r/scanabc/)
-<!-- .element: class="small" -->
+We may have learned our lesson?
+
+Inconclusive<!-- .element: class="highlight-red" -->
 
 <!-- next -->
 
 <!-- .slide: data-background-image="allhands.jpg" class="right-whitebox" -->
 
 ### All Hands
+
+No action points!
 
 * Celebrate
 * Drive alignment
@@ -158,39 +115,147 @@ We might find some like-minded people.
 
 <!-- next -->
 
-<!-- .slide: data-background-image="sensorfu.gif" class="whitebox" -->
+### Learned
 
-### Marketing Expertise
+Might actually help in alignment.
+
+Meetings can sometimes be fun.
+
+Plausible<!-- .element: class="highlight-red" -->
+
+<!-- next -->
+
+### Product Sparring
+
+![wow](wowscore.jpg)
+
+[>Checklist in GitHub](https://github.com/scanabc/open/blob/master/product-checklist.md)
+<!-- .element: class="small" -->
+
+<!-- next -->
+
+### Learned:
+
+* More emphasis on: "am I focusing on correct things".
+* If you have scores, people game it. No way around it.
+
+Winner <!-- .element: class="highlight-red" -->
+
+<!-- next -->
+
+### Product Now
+
+![now](now.jpg)
+
+Don't steal the developers thunder.
+<!-- .element: class="small" -->
+[>Product-Now is in GitHub too](https://github.com/scanabc/open/blob/master/product-now.md)
+
+<!-- next -->
+
+### Learned
+
+* Locks the reality and external messaging together
+* Keeps the eye on the ball
+* Less time spent on speculation
+* More time spent on fine details
+
+Winner<!-- .element: class="highlight-red" -->
+
+<!-- next -->
+
+<!-- .slide: data-background-image="reddit.jpg" class="right-whitebox" -->
+
+### Reddit
+
+We all share links.
+
+Doing it publicly, we might find the likeminded.
+
+[>Subreddit for security startups.](http://reddit.com/r/scanabc/)
+<!-- .element: class="small" -->
+
+<!-- next -->
+
+### Learned
+
+* This was a bust? 40 uniques per month, 1.5 pageviews per day.
+* On the other hand, easy -> just keep doing.
+
+Plausible<!-- .element: class="highlight-red" -->
+
+<!-- next -->
+
+<!-- .slide: data-background-image="breaking-out-the-box.gif" class="whitebox" -->
+
+### Messaging Experinments
+
+<!-- next -->
+
+### Learned
+
+* Half say ??? and,
+* half get the idea immediately
+* People saying ??? = more views and conversation.
+
+Winner<!-- .element: class="highlight-red" -->
 
 <!-- next -->
 
 <!-- .slide: data-background-image="social.jpg" class="rightest-whitebox" -->
 
-### Content Marketing Expertise
+Marketing Experinments
 
 <!-- next -->
 
-<!-- .slide: data-background-image="testdrive.jpg" class="whitebox" -->
+### Learned
 
-### Startup Test Drive
-
-Productizing a method to productize a product.
-<!-- next -->
-
-## What They Have Been Up To
+* Drawing an action from a stranger is really really hard.
+* We need to master this to break out from our bubble.
+* We need to figure out how to do it without directly supporting privacy-invasions.
 
 <!-- next -->
 
-## UbjArgJbexf
-
-![URI:Teller](uriteller.gif)
+## OK, Enough With the Learning
 
 <!-- next -->
 
-<!-- .slide: data-background-image="finnishmodel.jpg" class="whitebox" -->
+<!-- .slide: data-background-image="tempo.jpg" class="whitebox" -->
 
-## Ployrz
+### Investments
+
+Example: a 3-person startup.
+
+* Start it up with 3k€
+* 30k€ private investment
+* 50k€ grants
+* -> 6 months of R&D and pilots secured
 
 <!-- next -->
 
-## FrafbeSh
+## Mass Production
+
+Key ingredients for critical mass:
+
+* People
+* Shared Values
+* Shared Culture
+* Seed Funding
+
+<!-- next -->
+
+-> 3 startups in 7 months, more to follow.
+
+<!-- next -->
+
+## I didn't list ideas
+
+No shortage of ideas, there is plenty of frustration and shortcomings in our field.
+
+<!-- next -->
+
+<!-- .slide: data-background-image="doers.jpg" class="whitebox" -->
+
+## Let the doers talk
+
+(Practice what you preach.)
