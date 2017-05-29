@@ -106,9 +106,9 @@ No action points!
 
 ### Learned
 
-Might actually help in alignment.
+Might actually help with alignment
 
-Meetings can sometimes be fun.
+Meetings can sometimes be fun
 
 Plausible<!-- .element: class="highlight-red" -->
 
