@@ -13,17 +13,6 @@ Why Would Anyone Mass Produce Security Startups?
 
 <!-- next -->
 
-<!-- .slide: data-background-image="world.jpg" class="right-whitebox" -->
-
-## My Reason
-
-* Idea 1:
-  * 19 years to become popular
-* Idea 2:
-  * 12 years to become popular
-
-<!-- next -->
-
 <!-- .slide: data-background-image="lifetooshort.jpg" class="rightest-whitebox" -->
 
 Life is too short.<!-- .element: class="highlight-red" -->
@@ -156,7 +145,6 @@ Don't steal the developers thunder.
 ### Learned
 
 * Locks the reality and external messaging together
-* Keeps the eye on the ball
 * Less time spent on speculation
 * More time spent on fine details
 
@@ -212,7 +200,7 @@ Marketing Experinments
 
 * Drawing an action from a stranger is really really hard.
 * We need to master this to break out from our bubble.
-* We need to figure out how to do it without directly supporting privacy-invasions.
+* How to do it without invading your privacy?
 
 <!-- next -->
 
