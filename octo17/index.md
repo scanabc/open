@@ -46,16 +46,17 @@ Stronger
 
 <!-- next -->
 
-## Good Time For Experimenting
+## Experimenting
 
-Like in a college...
+Starting fresh, this is a good time for different experiments.
 
 <!-- next -->
 
-
 ### OUSPG Open
 
-From zero to impact in 90 days.
+From zero to impact in 90 days
+
+Hire fresh blood, make something useful with them.
 
 [>Read more about it](http://slides.com/evilon/ouspg-open-2016) 
 <!-- .element: class="small" -->
@@ -89,31 +90,6 @@ Inconclusive<!-- .element: class="highlight-red" -->
 
 <!-- next -->
 
-<!-- .slide: data-background-image="allhands.jpg" class="right-whitebox" -->
-
-### All Hands
-
-No action points!
-
-* Celebrate
-* Drive alignment
-  * Why
-  * Strategy
-* Initiatives
-* Q & A
-
-<!-- next -->
-
-### Learned
-
-Might actually help with alignment
-
-Meetings can sometimes be fun
-
-Plausible<!-- .element: class="highlight-red" -->
-
-<!-- next -->
-
 ### Product Sparring
 
 ![wow](wowscore.jpg)
@@ -123,7 +99,7 @@ Plausible<!-- .element: class="highlight-red" -->
 
 <!-- next -->
 
-### Learned:
+### Learned
 
 * More emphasis on: "am I focusing on correct things".
 * If you have scores, people game it. No way around it.
@@ -152,28 +128,6 @@ Winner<!-- .element: class="highlight-red" -->
 
 <!-- next -->
 
-<!-- .slide: data-background-image="reddit.jpg" class="right-whitebox" -->
-
-### Reddit
-
-We all share links.
-
-Doing it publicly, we might find the likeminded.
-
-[>Subreddit for security startups.](http://reddit.com/r/scanabc/)
-<!-- .element: class="small" -->
-
-<!-- next -->
-
-### Learned
-
-* This was a bust? 40 uniques per month, 1.5 pageviews per day.
-* On the other hand, easy -> just keep doing.
-
-Plausible<!-- .element: class="highlight-red" -->
-
-<!-- next -->
-
 <!-- .slide: data-background-image="breaking-out-the-box.gif" class="whitebox" -->
 
 ### Messaging Experinments
@@ -192,15 +146,41 @@ Winner<!-- .element: class="highlight-red" -->
 
 <!-- .slide: data-background-image="social.jpg" class="rightest-whitebox" -->
 
-Marketing Experinments
+Marketing Experiments
 
 <!-- next -->
 
 ### Learned
 
-* Drawing an action from a stranger is really really hard.
-* We need to master this to break out from our bubble.
-* How to do it without invading your privacy?
+* $10 -> 25 clicks -> 0 actions.
+* We need to master this to break out from our bubble
+* How to do it without invading your privacy
+
+Plausible <!-- .element: class="highlight-red" -->
+
+<!-- next -->
+
+<!-- .slide: data-background-image="reddit.jpg" class="right-whitebox" -->
+
+### Reddit
+
+We all share links.
+
+Doing it publicly, we might find the likeminded.
+
+[>Subreddit for security startups.](http://reddit.com/r/scanabc/)
+<!-- .element: class="small" -->
+
+<!-- next -->
+
+### Learned
+
+40 uniques per month, 1.5 pageviews per day
+
+On the other hand, easy -> just keep doing.
+
+Plausible<!-- .element: class="highlight-red" -->
+
 
 <!-- next -->
 
@@ -221,7 +201,37 @@ Example: a 3-person startup.
 
 <!-- next -->
 
-## Mass Production
+### Shared Culture
+
+Failure should be an option.
+
+Foster parallel tracks & keep them transparent to enable handovers in case of need.
+<!-- .element: class="small" -->
+
+<!-- next -->
+
+### Shared Culture
+
+
+True to the cause.
+
+No double standards, take security seriously!
+
+Being a security expert does not make you infallible.
+<!-- .element: class="small" -->
+
+<!-- next -->
+
+### Shared Culture
+
+Doers should be in the spotlight.
+
+No CEO, manager or anyone should steal the thunder from the doers.
+<!-- .element: class="small" -->
+
+<!-- next -->
+
+## Mass Production In a Nutshell
 
 Key ingredients for critical mass:
 
@@ -244,6 +254,3 @@ No shortage of ideas, there is plenty of frustration and shortcomings in our fie
 
 <!-- .slide: data-background-image="doers.jpg" class="whitebox" -->
 
-## Let the doers talk
-
-(Practice what you preach.)
