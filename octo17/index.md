@@ -179,7 +179,7 @@ Doing it publicly, we might find the likeminded.
 
 ### Learned
 
-40 uniques per month, 1.5 pageviews per day
+40 uniques per month, 1.5 pageviews per day. What a bust.
 
 On the other hand, easy -> just keep doing.
 
