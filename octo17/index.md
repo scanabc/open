@@ -235,9 +235,9 @@ No CEO, manager or anyone should steal the thunder from the doers.
 
 <!-- next -->
 
-## Mass Production In a Nutshell
+## In a Nutshell
 
-Key ingredients for critical mass:
+Key ingredients for mass production:
 
 * People
 * Shared Values
