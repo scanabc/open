@@ -58,10 +58,10 @@ From zero to impact in 90 days
 
 Hire fresh blood, make something useful with them.
 
-[>Read more about it](http://slides.com/evilon/ouspg-open-2016) 
+[>Read](http://slides.com/evilon/ouspg-open-2016)
 <!-- .element: class="small" -->
 
-[>View more](https://www.youtube.com/watch?v=nY450MCMjOU&list=PL1fscFAejNoDGRgJVMrv_jzWny1T1SaDP)
+[>Watch](https://www.youtube.com/watch?v=nY450MCMjOU&list=PL1fscFAejNoDGRgJVMrv_jzWny1T1SaDP)
 <!-- .element: class="small" -->
 
 <!-- next -->
@@ -80,11 +80,14 @@ Winner<!-- .element: class="highlight-red" -->
 
 Productizing a method to productize a product.
 
+[>Read](http://www.scanabc.com/testdrive/)
+<!-- .element: class="small" -->
+
 <!-- next -->
 
 ### Learned
 
-We may have learned our lesson?
+Just soft launched.
 
 Inconclusive<!-- .element: class="highlight-red" -->
 
@@ -101,8 +104,9 @@ Inconclusive<!-- .element: class="highlight-red" -->
 
 ### Learned
 
-* More emphasis on: "am I focusing on correct things".
-* If you have scores, people game it. No way around it.
+More emphasis on: "am I focusing on correct things".
+
+If you have scores, people game it. No way around it.
 
 Winner <!-- .element: class="highlight-red" -->
 
@@ -252,5 +256,10 @@ No shortage of ideas, there is plenty of frustration and shortcomings in our fie
 
 <!-- next -->
 
+## Thank you!
+
 <!-- .slide: data-background-image="doers.jpg" class="whitebox" -->
 
+Follow us in
+<!-- .element: class="small" -->
+[Medium](https://medium.com/@scanabc/has-recommended) or in [Twitter](https://twitter.com/scanabc).
