@@ -1,0 +1,21 @@
+#! /bin/sh
+
+cat <<EOD | (
+badrap.io
+scanabc.com
+sensorfleet.com
+testaaverkkosi.fi
+uriteller.io
+hownetworks.io
+cyblem.com
+sensorfu.com
+EOD
+
+  while read domain; do
+    for prefix in http:// https:// http://www. https://www.; do
+      url=$prefix$domain
+      curl -s -I -o /dev/null -w  '%{http_code}' $url
+      echo " "$url
+    done
+  done
+)
