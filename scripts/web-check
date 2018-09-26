@@ -26,7 +26,7 @@ EOD
         redirect=""
       fi
       ## HSTS
-      strict=$(curl -s -D- ${url} | grep Strict-Transport-Security)
+      strict=$(curl -s -D- ${url} | grep -E "^Strict-Transport-Security:")
       if [ "x${strict}" != "x" ]; then
         hsts=" [HSTS]"
       else
