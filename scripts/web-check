@@ -16,14 +16,24 @@ EOD
   while read domain; do
     for prefix in http:// https:// http://www. https://www.; do
       url=$prefix$domain
-      curl -m 2 -s -I -o /dev/null -w  '%{http_code}' ${url}
+      ## Return code
+      returncode=$(curl -m 2 -s -I -o /dev/null -w  '%{http_code}' ${url})
+      ## Redirect target
       effectiveurl=$(curl -Ls -o /dev/null -w %{url_effective} ${url})
-      if [ x${url}/ != x${effectiveurl} ]; then
+      if [ "x${url}/" != "x${effectiveurl}" ]; then
         redirect=" -> ${effectiveurl}"
       else
         redirect=""
       fi
-      echo " "${url}${redirect}
+      ## HSTS
+      strict=$(curl -s -D- ${url} | grep Strict-Transport-Security)
+      if [ "x${strict}" != "x" ]; then
+        hsts=" [HSTS]"
+      else
+        hsts=""
+      fi
+      ## Display
+      echo ${returncode}" "${url}${redirect}${hsts}
     done
   done
 )
