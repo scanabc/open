@@ -5,7 +5,7 @@ domains=domains/
 
 [ -d ${datadir}  ] || mkdir ${datadir}/
 
-# remove head -100 for full run
+# pick 50 domains and apotti.fi and kone.fi
 echo 'mx'
 gzcat ${domains}/fi_full.8ea886b4ca6c928b8f6b85b9657bfbb8.txt.gz |(head -50; egrep 'apotti.fi|kone.fi') |python3 domain2mx.py ${datadir}/cache.json >${datadir}/00-mx.json
 
@@ -25,7 +25,10 @@ echo 'ytj-augment'
 time cat ${datadir}/04-o365-atieto-prequalified-web.json |python3 ytj-augment.py > ${datadir}/05-o365-atieto-prequalified-web-ytj.json
 
 echo 'final-qualify'
-cat ${datadir}/05-o365-atieto-prequalified-web-ytj.json |python3 qualify-final-filter.py >${datadir}/06-o365-atieto-prequalified-web-ytj-final.json
+cat ${datadir}/05-o365-atieto-prequalified-web-ytj.json |python3 qualify-final-filter.py >${datadir}/06-o365-atieto-prequalified-web-ytj-qualified.json
 
-echo 'csv'
-cat ${datadir}/06-o365-atieto-prequalified-web-ytj-final.json | python3 final2leadlist.py |(head -1 ;grep prequalified | egrep 'title-name|domain-contact') >${datadir}/o365-qualified.csv
+echo 'rocketreach'
+cat ${datadir}/06-o365-atieto-prequalified-web-ytj-qualified.json | python3 rocketreach.py "cso,ciso, hr partner" > ${datadir}/07-o365-atieto-prequalified-web-ytj-qualified-rocket.json
+
+echo 'csv disabled, needs a small refactor'
+#cat ${datadir}/06-o365-atieto-prequalified-web-ytj-qualified-rocke.json | python3 final2leadlist.py |(head -1 ;grep prequalified | egrep 'title-name|domain-contact') >${datadir}/o365-qualified.csv

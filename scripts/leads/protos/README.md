@@ -13,7 +13,7 @@ In short:
 
 ## How to use
 
-See run.sh for an example.
+See example.sh for an example.
 
 ## References
 
@@ -32,9 +32,15 @@ cat datadir/00-mx.json | python3 stats.py
 * We will narrow down the list in next step.
 * Hopefully the final list is small enough for some manual work.
 
-## Augment with YTJ
+## ytj-augment
 
 Takes "businessId" as input and augments businessline, telephones and companyforms for FI companies with over 5M revenue.
 
 * Does not return data for at least several non-OY-types, such as "Aatteellinen yhdistys" or "R.Y."
 * Will not try to augment entires which Asiakastieto has not provided "FI" country code, as there would not be results from YTJ
+
+## rocketreach.py
+
+* Current strategy: grab as many results and filter locally instead of running a query per title.
+  * Results seem to be a bit incosistent, running the same command two times sometimes yields different results.
+  * Because of this, we might want to consider running company + title searches instead of one big company search with local filtering.
