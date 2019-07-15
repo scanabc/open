@@ -117,7 +117,9 @@ def score(line, company):
     return company
 
 if __name__ == "__main__":
-    fields = ["score", "tenant", "domains_str", "prequalified", "matches","name", "businessId","personnel","turnover","turnperperson", "businesslines","city","country","redirects to","web info"]
+    fields = ["score", "tenant", "domains_str", "prequalified", "matches","name",
+        "businessId","personnel","turnover","turnperperson", "businesslines","city",
+        "country","redirects to","web info", "contact_str"]
     writer = csv.DictWriter(sys.stdout, fieldnames=fields, extrasaction="ignore")
     writer.writeheader()
     for line in sys.stdin:
@@ -127,8 +129,6 @@ if __name__ == "__main__":
 
 
         line["domains_str"] = " & ".join(line["domains"])
-
-        #line = to_utf8(line)
 
         for company in line["results"]:
             company["score"] = 0
@@ -156,9 +156,18 @@ if __name__ == "__main__":
                 if copy_value in line:
                     company.update({copy_value: line[copy_value]})
 
-            if "web info" in company and len(company["web info"]) > 50:
-                company["web info"] = company["web info"][0:50] + "..."
-
+            if "contacts" in company:
+                for source in company["contacts"]:
+                    for contact in company["contacts"][source]:
+                        contact_list = list()
+                        if "contact_str" not in company:
+                            company["contact_str"] = list()
+                        for key in ["name", "current_title", "current_employer"]:
+                            if key in contact:
+                                contact_list.append(contact[key])
+                        company["contact_str"].append(" / ".join(contact_list))
+            if "contact_str" in company:
+                company["contact_str"] = " & ".join(company["contact_str"])
             # choose what to write
 
             writer.writerow(company)

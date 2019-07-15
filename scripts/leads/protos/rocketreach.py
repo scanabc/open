@@ -45,20 +45,29 @@ if len(sys.argv) != 2:
 
 titles = sys.argv[1].split(",")
 
+i=0
 for line in sys.stdin:
+    i += 1
+
+    if i % 5 == 0:
+        sys.stderr.write("#")
+        sys.stderr.flush()
+    if i % 100 == 0:
+        sys.stderr.write("{}\n".format(i))
 
     line = json.loads(line)
     for company in line["results"]:
-
+        if "prequalified" not in company or company["prequalified"] == False:
+            continue
         name = company["name"]
         if "country" in company and company["country"] == "FI":
 
             for profile in query(name):
-                if "current_title" not in profile:
+                if "current_title" not in profile or profile["current_title"] == None:
                     continue
 
-
                 for title in titles:
+
                     if title.lower() not in profile["current_title"].lower():
                         continue
                     if "contacts" not in company:

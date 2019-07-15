@@ -4,7 +4,6 @@ import requests
 import re
 
 def check_web(domain):
-    result = dict({"https": dict(), "http": dict()})
 
     def _check(scheme, url):
         url = scheme + "://" + url + "/"
@@ -46,21 +45,17 @@ if __name__ == "__main__":
     for line in sys.stdin:
         i+=1
         if i % 10 == 0:
+
             sys.stderr.write("#")
             sys.stderr.flush()
             sys.stdout.flush()
         if i % 100 == 0:
+
             sys.stderr.write("{}\n".format(i))
         line = json.loads(line)
-        #qualified = False
-        #for company in line["results"]:
-            #if "prequalified" in company and company["prequalified"] == True:
-            #    qualified = True
-            #    break
-        #if not qualified:
-        #    print(json.dumps(line))
-        #    continue
+
         for domain in line["domains"]:
+            continue
             if domain not in checked_domains:
                 web_result = check_web(domain)
                 checked_domains[domain] = web_result
