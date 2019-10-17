@@ -2,7 +2,7 @@
 
 In short:
 
-* Get country TLDs from domainlist.io (~250k) (see domains/)
+* Get country TLDs from domainlists.io (~250k) (see domains/)
 * Check whose MX point to O365
 * Scrape company information from Asiakastieto
 * Prequalify with turnover
