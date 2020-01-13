@@ -1,31 +1,13 @@
 # Scandinavian ABC Open
 
-Ääkköset, a Scandinavian ABC company, has Open doors every Tuesday 12:00
-onwards in the [Kielo](http://kielo.com/) premises. You are
-welcome to drop by! Sometimes we join forces
-and arrange events together with Kielo.
-
-If you can't stop by, you can follow Scandinavian ABC companies online:
-
-* Scandinavian ABC collective:
-  * This page - a journal from Scandinavian ABC Open sessions.
+Scandinavian ABC collective:
   * [Twitter](https://twitter.com/scanabc) - aggregates tweets from
     individuals working in Scandinavian ABC ecosystem. Also, announces things
     sometimes.
   * [Reddit](https://reddit.com/r/scanabc/) - our reading list for
     orienting ourselves.
-  * [Medium](https://medium.com/@scanabc/has-recommended)
-    blogs by the Scandinavian ABC companies and individuals
+  * ScanABC companies are listed at [Ääkköset Oy web pages](https://www.scanabc.com/)
 
-* Companies themselves:
-  * [Ääkköset Oy web pages](http://www.scanabc.com/) - Ääkköset Oy accelerates
-    Scandinavian ABC companies.
-  * [Cyblem Oy web pages](http://www.cyblem.com/) -
-  * [HowNetWorks in Twitter](https://twitter.com/hownetworksio)
-  * [HowNetWorks blog](https://medium.com/hownetworks)
-  * [HowNetWorks in GitHub](https://github.com/hownetworks)
-  * [SensorFu web pages](http://www.sensorfu.com/)
-  * [SensorFu in Twitter](https://twitter.com/sensorfu/)
 
 ## 2017-05-22 - Koodikärpät visit
 
