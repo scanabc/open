@@ -2,6 +2,18 @@
 
 Lets watch infosec presentations together! The schedule is below.
 
+## 2020-02-12: On the insecure nature of turbine control systems in power generation
+
+ * Kielo big meeting room, 14:00 — 15:00
+ * Host: oherrala
+ * Presentation:
+    * https://www.youtube.com/watch?v=ty062cOKbnU
+    * https://media.ccc.de/v/36c3-10689-on_the_insecure_nature_of_turbine_control_systems_in_power_generation
+
+> A deep dive into power generation process, industrial solutions and their
+> security implications. Flavoured with vulnerabilities, penetration testing
+> (security assessment) methodology and available remediation approaches.
+
 ## 2020-02-05 LIVE! IoT devices
 
  * Kielo big meeting room, 14:00 — 16:00
@@ -56,3 +68,5 @@ Lets watch infosec presentations together! The schedule is below.
 # Backlog
 
  * https://media.ccc.de/v/36c3-11220-the_case_for_scale_in_cyber_security
+
+ * 36C3 playlist: https://www.youtube.com/playlist?list=PL_IxoDz1Nq2YWdnWC4VFPk5ovr_xUZemX
